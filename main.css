@@ -36,6 +36,6 @@ input {
   margin-top: 10px;
 }
 
-.background {
-  background-color: yellow;
-}
+body {
+  background-color: lighter;
+  }
